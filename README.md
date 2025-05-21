@@ -1,4 +1,7 @@
 # practicalWorkIIOOP
+![image](https://github.com/user-attachments/assets/7c8db87a-1cc0-48d1-a636-03e40528e16e)
+(creo que no va a funcionar)
+
 This is my repository where I developed my solution for the practical work 2 needed to pass the OOP subject.
 Table of Contents
 Introduction	
