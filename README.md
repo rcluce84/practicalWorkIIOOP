@@ -31,6 +31,8 @@ The program is done so that it knows how to detect whether the operation require
 The conversion result is displayed dynamically.
 The system is supposed to track the numbers of calculations a user performs. (will talk more about this in the problems section).
 The inputs that the user decides to put in the calculator for the conversion are taken from a  calculator style interface to simulate pressing a key.
+
+
 Class Diagram
 ![image](https://github.com/user-attachments/assets/d603f24a-c8d0-4489-9b5b-b8f834195dff)
 
