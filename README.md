@@ -1,7 +1,8 @@
 # practicalWorkIIOOP
 ![image](https://github.com/user-attachments/assets/7c8db87a-1cc0-48d1-a636-03e40528e16e)
-(creo que no va a funcionar)
 
+First of all the zip file from the project was to big for github to let me uploadit so the solution was to add it to drive, create a link and shere the link here, hope this does not affect that much my grade:
+https://drive.google.com/file/d/1CLgWy2biIRUWJe_3-TywKPei5vwFIRUG/view?usp=sharing
 This is my repository where I developed my solution for the practical work 2 needed to pass the OOP subject.
 Table of Contents
 Introduction	
